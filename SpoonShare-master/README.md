@@ -35,11 +35,6 @@ Spoon Share is an Android app that fights food insecurity by connecting surplus 
         <img src="https://user-images.githubusercontent.com/663460/26973090-f8fdc986-4d14-11e7-995a-e7c5e79ed925.png" alt="Github" width="200">
       </a>
     </td>
-    <td>
-      <a href="https://play.google.com/store/apps/details?id=com.spoonsharemeal">
-        <img src="https://i.imgur.com/9p4oJQG.png" alt="Github" width="200">
-      </a>
-    </td>
        <td>
       <a href="https://media.giphy.com/media/iHD88spVFkL7mZakwa/giphy.gif">
         <img src="https://imgur.com/91mkzE2.png" alt="Github" width="200">
